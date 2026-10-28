@@ -1,0 +1,6 @@
+{
+  "name": "Pyroclast: Advance Fire",
+  "description": "Tactical 2D action-defense game and cellular fire physics simulator with customizable weapon loadouts, wind-driven fire propagation, and sector progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
